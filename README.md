@@ -11,7 +11,9 @@ This program reads from a .txt file and allows user to filter products.
 Apple
 Pear
 Berries
-Bannana
+Banana
 
 ## Author
 Joshua Hoagland
+
+Edited the misspelling of the word Banana. (Edit added by Maximilian Hess)
