@@ -17,3 +17,6 @@ Banana
 Joshua Hoagland
 
 Edited the misspelling of the word Banana. (Edit added by Maximilian Hess)
+
+## Collaboration Acknowledgment
+This project was reviewed and edited by hbui-sec on GitHub.
